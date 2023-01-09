@@ -5,13 +5,13 @@ The purpose of this analysis was to build a dynamic website using Javascript to 
 
 ## **Results**
 ### *How does the website work?*
-In reality, the website works in a very simple manner. Upon entering the site (which can be viewed through the following domain: https://rrantxa.github.io/UFOs/, the first thing you'll notice is a general description of the project, which is to showcase relevant data concerning UFO sightings. 
+In reality, the website works in a very simple manner. Upon entering the site (which can be viewed through the following domain: https://rrantxa.github.io/UFOs/), the first thing you'll notice is a general description of the project, which is to showcase relevant data concerning UFO sightings. 
 
-<image src="images/readme_1.png"/>
+![readme_1](https://user-images.githubusercontent.com/113153777/211241535-865f123a-0fd8-4b91-ba75-3d7a457f4619.png)
 
 Below the general description, the table containing sighting data can be found. This table holds a large amount of records which might be difficult to inspect all at once, however, the website contains a feature that allows users to filter the table according to the type of event they'd like to know more about. 
 
-<image src="../images/readme_2.png">
+![readme_2](https://user-images.githubusercontent.com/113153777/211241566-ed840bd3-18f7-4968-b656-9d8fc7b10e70.png)
 
 As the above image shows, the table can be filtered according to the following criteria:
 * Date
@@ -22,7 +22,7 @@ As the above image shows, the table can be filtered according to the following c
 
 Thus, users can enter the data they're interested in analyzing, and the table will get automatically updated (that is, if the user entered valid search criteria). An example of this would be a search for UFO sightings in California in the form of light during the first of January 2010. This search gives us a total of 7 entries, as the following image displays: 
 
-<image src="../images/readme_3.png">
+![readme_3](https://user-images.githubusercontent.com/113153777/211241598-20f3b258-1554-4362-acf2-476b26ce249f.png)
 
 Finally, if users wish to display the full table once again, they can simply remove all the information they entered on the search engine, or refresh the website. 
 
